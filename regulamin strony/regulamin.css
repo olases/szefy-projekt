@@ -1,0 +1,23 @@
+.pierwsza{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body {
+    background-color: rgb(30, 245, 11);
+}
+.druga{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.trzeci{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.czwarty{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
