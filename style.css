@@ -1,0 +1,8 @@
+#navbar{
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+#navbar img{
+    object-fit: contain;
+}
